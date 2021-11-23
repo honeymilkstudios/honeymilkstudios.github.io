@@ -2,6 +2,6 @@
 <h1>Whoops! Not sure what you were looking for.</h1>
 
 <p> {
-  background-image: url("paper.gif");
+  background-image: url("https://imgur.com/naAyL2X");
 } <p>
 
