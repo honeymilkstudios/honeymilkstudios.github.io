@@ -2,7 +2,7 @@
 <html>
 <head>
 <style>
-h1 {
+<h1> {
   color: blue;
   font-family: verdana;
   font-size: 300%;
